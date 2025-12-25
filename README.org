@@ -1,0 +1,9 @@
+* template-function
+
+When code is a function of type.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/markcox80/template-function.git |
+| commit  | bb1f1f2                                              |
+| systems | template-function-tests template-function            |
+|---------+------------------------------------------------------|
